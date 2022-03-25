@@ -1,1 +1,1 @@
-# Other-Udacity-Projects
+# Data-Science-Projects
